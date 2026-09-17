@@ -36,7 +36,11 @@ The application uses Artificial Intelligence to simplify product cataloging and 
 
 ## Team
 - Soumya Tiwari
-- [Add team members]
+- Archita jar
+- Sarthak
+- Nancy dawani
+- Hitesh sherwani
+- Vanshul verma
 
 ## Future Scope
 - AI-powered recommendations
